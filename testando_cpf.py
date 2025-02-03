@@ -1,7 +1,7 @@
 from classes.cpf import Cpf
 
 #
-# Os dados inseridos aqui, 
+# NOTA: Os dados inseridos aqui, 
 # sao gerados automaticamente por:
 # 4devs.com.br/gerador_de_cpf
 #
