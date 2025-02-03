@@ -1,3 +1,13 @@
+"""
+Nome do Arquivo: testando_cpf.py
+Autor: Mauricio P. Pires
+E-mail: mauricio at portelainfo dot com dot br
+Criado em: 03/02/2025
+Última modificação: 03/02/2025
+Descrição:
+    Teste da classe Cpf.
+"""
+
 from classes.cpf import Cpf
 
 #
